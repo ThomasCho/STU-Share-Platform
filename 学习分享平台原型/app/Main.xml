@@ -1,0 +1,90 @@
+﻿<project version="2.5" name="学习分享平台原型" ID="9AB90E6A-AB87-4F3F-A9EC-B16AD94152C7">
+  <params>
+    <pageParam version="4.8" minAllowVersion="4.8"/>
+    <projectParam version="2.5" minAllowVersion="2.5" platform="MtWeb" pageSize="(1400,6000)" backgroundColor="4294967295" fontSize="0" fontFamily="Arial" projectType="ptPersonalProject" isShowTitleIndex="False"/>
+    <previewParam version="1.0"/>
+    <colorParam version="1.0"/>
+  </params>
+  <pages>
+    <page name="首页" ID="8362335E-89B3-4FFA-965A-4663AED09055" expanded="True" code="zmh2CNvcea" thumbCode="zmh2CNvcea" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="576B087B152480A61BF50F4917C0A374.png"/>
+        <image key="B8CC8B9B1A31CF6E55FD806135099D7F.png"/>
+        <image key="A2BFBC9DD33A9A7453FA483427C2FEF2.png"/>
+        <image key="40CD7A7F9B704672F09AB4B1DD71C581.png"/>
+      </images>
+      <page name="注册" ID="E015F273-2F8B-E711-BCFB-A0999B1BFD43" expanded="True" code="qkzKKDuX3W" thumbCode="qkzKKDuX3W" status="psWhite" isfolder="False" isshownode="True"/>
+      <page name="登陆后页面" ID="8E2CA0A0-308B-E711-BCFB-A0999B1BFD43" expanded="True" code="4SCQf1nriz" thumbCode="4SCQf1nriz" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+        <images>
+          <image key="89AC61E0CC2D4ADE5E3DCBB2E1B1DF79.svg"/>
+          <image key="B0158577C88FD258B1EF1C1172807753.svg"/>
+        </images>
+      </page>
+    </page>
+    <page name="个人信息" ID="786EC722-978B-E711-BAE0-A0999B1BFD43" expanded="True" code="g2aO2EkGjS" thumbCode="VP5B2FbtK5" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="7068C0C289F11D62C6688565E25BC2CB.png"/>
+        <image key="467605F5F90D9FF65132C1A6EF883F26.svg"/>
+        <image key="89AC61E0CC2D4ADE5E3DCBB2E1B1DF79.svg"/>
+        <image key="B0158577C88FD258B1EF1C1172807753.svg"/>
+        <image key="F607C7CD5B37E071EEDC6AE0A10F4F4D.png"/>
+      </images>
+    </page>
+    <page name="下载页面" ID="1A379D5C-9A8B-E711-BAE0-A0999B1BFD43" expanded="True" code="orZ4DPcPKq" thumbCode="orZ4DPcPKq" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="B91434690C5B5224D1CC6B1998F1178A.svg"/>
+      </images>
+      <page name="下载具体操作页面" ID="2A72B765-AE8B-E711-BAE0-A0999B1BFD43" expanded="True" code="zhIekwNYJ3" thumbCode="zhIekwNYJ3" status="psWhite" isfolder="False" isshownode="True">
+        <images>
+          <image key="7068C0C289F11D62C6688565E25BC2CB.png"/>
+          <image key="F607C7CD5B37E071EEDC6AE0A10F4F4D.png"/>
+          <image key="89AC61E0CC2D4ADE5E3DCBB2E1B1DF79.svg"/>
+        </images>
+      </page>
+    </page>
+    <page name="上传页面" ID="3ED4BA5C-A78B-E711-BAE0-A0999B1BFD43" expanded="True" code="U9sC5I3r4s" thumbCode="U9sC5I3r4s" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="B0158577C88FD258B1EF1C1172807753.svg"/>
+      </images>
+    </page>
+    <page name="我的学习资料" ID="1C868F5A-BD8B-E711-B966-A0999B1BFD43" expanded="True" code="GE76bu8dXb" thumbCode="g9bkosN8pX" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="管理员页面" ID="7074D4BA-C18B-E711-B966-A0999B1BFD43" expanded="True" code="F3EmQx3pDX" thumbCode="F3EmQx3pDX" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="B91434690C5B5224D1CC6B1998F1178A.svg"/>
+        <image key="8BE3C7AC8FBB1747163ECAB9AB46AD44.svg"/>
+        <image key="A74ACDBBC3EE487C9CDF84F8F9700C7C.svg"/>
+      </images>
+    </page>
+  </pages>
+  <masters>
+    <master name="Master" ID="0D1EBF0B-B2A9-46C5-9DDB-1EA0DC452FA3" code="GxpxgDDuwQ" status="psWhite" createDate="1899-12-30 00:00:00">
+      <refPages/>
+      <images>
+        <image key="F76E4017E7F2948B19AAF407C9D590D5.svg"/>
+        <image key="8657E9629ED61923A0D3326AD46FAF1A.svg"/>
+        <image key="75DD6B2C5FC45EC1E2CDE3AF97D06E83.svg"/>
+        <image key="29F37D064345EFF092FDE43A909201C4.svg"/>
+        <image key="6E397F998770B38A343BB5B849DF19E9.svg"/>
+      </images>
+    </master>
+  </masters>
+  <images>
+    <image key="B0158577C88FD258B1EF1C1172807753.svg"/>
+    <image key="7068C0C289F11D62C6688565E25BC2CB.png"/>
+    <image key="8BE3C7AC8FBB1747163ECAB9AB46AD44.svg"/>
+    <image key="F76E4017E7F2948B19AAF407C9D590D5.svg"/>
+    <image key="576B087B152480A61BF50F4917C0A374.png"/>
+    <image key="6E397F998770B38A343BB5B849DF19E9.svg"/>
+    <image key="40CD7A7F9B704672F09AB4B1DD71C581.png"/>
+    <image key="B91434690C5B5224D1CC6B1998F1178A.svg"/>
+    <image key="8657E9629ED61923A0D3326AD46FAF1A.svg"/>
+    <image key="B8CC8B9B1A31CF6E55FD806135099D7F.png"/>
+    <image key="75DD6B2C5FC45EC1E2CDE3AF97D06E83.svg"/>
+    <image key="467605F5F90D9FF65132C1A6EF883F26.svg"/>
+    <image key="89AC61E0CC2D4ADE5E3DCBB2E1B1DF79.svg"/>
+    <image key="F607C7CD5B37E071EEDC6AE0A10F4F4D.png"/>
+    <image key="29F37D064345EFF092FDE43A909201C4.svg"/>
+    <image key="A2BFBC9DD33A9A7453FA483427C2FEF2.png"/>
+    <image key="A74ACDBBC3EE487C9CDF84F8F9700C7C.svg"/>
+  </images>
+</project>
